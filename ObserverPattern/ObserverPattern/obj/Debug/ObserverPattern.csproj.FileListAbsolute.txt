@@ -1,0 +1,8 @@
+C:\Users\barsh\source\repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\barsh\source\repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\barsh\source\repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\barsh\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\barsh\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\barsh\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\barsh\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\barsh\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
